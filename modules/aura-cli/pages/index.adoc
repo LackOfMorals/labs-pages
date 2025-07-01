@@ -9,6 +9,14 @@
 :page-product: Aura CLI
 
 
+[NOTE]
+====
+This documentation pertains to the now deprecated, unsupported version of Aura CLI, as part of Neo4j Labs.
+
+Users are encouraged to move to the supported Aura CLI that is available at https://github.com/neo4j/aura-cli where all future development work with be focused. 
+
+====
+
 The Neo4j Aura CLI is an open source command line interface for interacting with the Aura cloud platform through the public Aura API.
 
 == Availability & Installation
